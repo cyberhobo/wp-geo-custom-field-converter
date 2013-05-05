@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Geo Custom Field Converter
-Version: 0.1
+Version: 0.2.0
 Description: Convert WP Geo custom fields to Geo Mashup in bulk.
 Author: Dylan Kuhn
 Author URI: http://www.cyberhobo.net
